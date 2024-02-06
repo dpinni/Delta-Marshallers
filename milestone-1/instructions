@@ -1,0 +1,46 @@
+Milestone Objectives:
+Analyze a problem space and include 1) who the various categories of users are, 2) why the problem is important, and 3) what existing solutions exist for this problem
+The key goal of this milestone is to demonstrate a deeply understanding of the problem you are addressing.   That is, what is the problem, who are the relevant users, 
+and what are the issues and constraints involved with the project. Your goal is to identify the important aspects of the problem domain that will influence your 
+UI design for the rest of the project.
+
+If the problem domain has an existing system or interface, you should perform an evaluation of that system to help you learn more about it.    You can learn a lot about 
+something by examining existing solutions and their strengths and weaknesses.
+
+In class we will discuss different techniques for acquiring of information. Feel free to utilize the techniques that you feel are most appropriate to the particular 
+task you are examining. You must demonstrate, however, that you have extensively explored the problem area—show me the data! If I get the sense that minimal time was 
+invested and/or obvious areas were not explored, you will not receive a good grade on this milestone.
+
+Specific questions you need to thoroughly answer include:
+
+- Who are the potential stakeholders?  Note, if your categories are sufficiently vague (e.g., "Students" are a stakeholder---think about how wide-ranging students 
+  are as a category), you will likely not receive full points on your milestone).
+- What tasks do they seek to perform?
+- What functionality should the “system” provide? (Note, “system” does not necessarily mean a digital system—there may be analog solutions already in use. 
+  For instance, a paper-based “to-do” list is an analog solution to keeping track of daily tasks.)
+- What criteria should be used to judge if your design is a success or not? 
+
+For full credit, you must provide the following information in your report.
+* An overview of what the problem is and what are existing solutions, both analog and digital.
+  - Do not propose a solution that’s in search of a problem!
+* A description of the important characteristics of the users in the problem space.
+* A task analysis consisting of:
+* A description of the important characteristics of the tasks performed by users.
+* A description of important characteristics of the task environment.
+* A simple structured task analysis of the problem in one of the forms described in the textbook.
+* An interpretive evaluation (e.g., heuristic evaluation, walkthrough, etc.) of the existing system/interface, if one exists.
+* A brief description and justification of how the above information was gathered.
+* Evidence that you have searched through scholarly articles to see if this problem space has been explored (you should research using the ACM 
+  Digital Library, available through Clemson’s library).
+* Finally, you need to synthesize your data and discuss what it implies for moving forward.  For instance, does your analysis indicate that designing 
+  an application on a mobile device would be ideal for solving this problem?
+  
+Sage Advice:
+
+The following are things to avoid doing (unless you want to not receive full credit!):
+- Hand in a laundry list that describes target users, environment, and tasks (but you do need this information!)  You are showing how your milestone 
+  findings are going to influence the design of your system moving forward.
+- Over generalize stakeholders to where you won't have useful information.  
+- Not find an obvious solution that already exists to the problem.
+- Choosing a narrow problem space that doesn't yield rich exploration (hint: chat with Dr. Plaue during office hours before finalizing a problem space!)
+- Not including a synthesis of why the problem matters and how impactful it can be.
