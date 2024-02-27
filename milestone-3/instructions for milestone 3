@@ -1,0 +1,45 @@
+Milestone Objectives:
+Build an interactive interface prototype.
+Your mission for this milestone is to take the information from:
+•    The data and feedback acquired from milestone 2
+•    Assigned readings (and if necessary, from relevant readings that have yet to be assigned)
+
+and develop a
+
+A detailed, fully-functional prototype of one of the designs you came up with for Milestone 2.
+A tentative list of usability specifications and an evaluation plan for your system for Milestone 4,
+Include quantitative benchmark tasks you will have users perform to evaluate the success of the interface.
+What types of qualitative data will you collect? How will you collect it?  Give examples
+The key here is not to do some exhaustive description of a usability evaluation plan, but to motivate why the particular plan you propose is appropriate for this interface (see below)
+A detailed description of your system prototype. You must include screen captures to help explain it and text to describe how a user would interact with it.
+A discussion about the implementation challenges you faced. Were there aspects that you wanted to build but were unable to do so? Why was this?
+A justification of why you choose the design that you implemented. What's special about this particular design with respect your problem? What did you learn from Studio 2?
+A response to feedback from Studio 3.
+A justification of why the technology you chose to implement your prototype was the best choice? Note, simply stating that you chose language X because that’s what the strongest programmer on your team preferred isn’t the best justification (and might lead to a lousy prototype).
+Note you will be building the interface functionality for this milestone. Thus, you must have a working and interactive design.  You will likely not have all of the back-end functionality that you need at this time (such as a database, real-time data from sensors, etc.), but the front-end should be fully operational and you should have partial back-end functionality. You will be having real users use your prototype during the next milestone.
+
+You will also begin to start assessing the success of your prototype by providing a set of initial usability specifications for your system and a tentative plan for system evaluation (we will cover usability testing in more detail in class). For thinking about evaluation in milestone 3, go back to your milestone 1 and look at the objectives and tasks you identified from users.  (These were most likely vague and will need to be re-thought. What makes a user successful at a task? Time to completion? Number of clicks? Etc.)
+
+Your (revisited) tasks should be used to create preliminary usability specifications. For example, if you are working on a calendar manager, you might specify time limits in which you expect a user to be able to schedule or modify an appointment, or a maximum number of errors that you expect to occur. Basically, you should list a set of criteria by which your interface can be evaluated.
+
+Note that developing an initial evaluation plan is also a good way to figure out how much of the interface you need to develop. You should be able to build and connect to enough of the application functionality to be able to conduct an initial usability evaluation with the benchmark tasks as you are proposing here.   Thus, do not forget to include initial usability specifications and a description of the evaluation that you are planning.
+
+Deliverable:
+
+You must have a detailed narrative for how someone would use the interactive system.
+Justifications for how and why design decisions were made (which should tie back to data that you discovered during Milestones 1 and 2).
+You must include all files necessary to compile and run your interactive prototype.
+Submission Instructions
+
+ZIP file containing
+PDF of the professional document in the group dropbox on Canvas
+All source code and a makefile with compile and run directives and a detailed readme.txt file that contains step-by-step directions on how to get your interface working on a School of Computing Linux computer.
+Link to PDF on the group web space
+Studio 3 will be on 3/29/24 and will be a demonstration of your system
+Tentative Grading Criteria
+Professionalism (proper grammar, spelling, title page with team identifier and name, page numbers, etc).
+Detail level of the narrative
+Supporting image details/relevance (e.g., do you have visuals to explain all aspects of how a user would accomplish tasks)
+Reflection of the feedback received from Studio 2
+Functionality in the interface.
+Implementing best visual design practices
